@@ -51,9 +51,9 @@ This project is a deep learning-based image classifier built with TensorFlow and
 ##  Results
 
 Achieved strong performance using a simple dense neural network:
-- **Training Accuracy**: ~87.1%
-- **Test Accuracy**: ~87.5%
-- **Validation Accuracy**: ~88.3%
+- **Training Accuracy**: ~88.4%
+- **Test Accuracy**: ~86.9%
+- **Validation Accuracy**: ~87.6%
 
 
 ## What I Learned
