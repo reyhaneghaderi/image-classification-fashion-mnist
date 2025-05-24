@@ -1,28 +1,28 @@
 
-# 👗 Fashion MNIST Classification with TensorFlow
+#  Fashion MNIST Classification with TensorFlow
 
 This project is a deep learning-based image classifier built with TensorFlow and Keras. It classifies grayscale images of clothing into 10 categories, using the **Fashion MNIST** dataset.
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Learn to load and preprocess image datasets with Keras.
 - Build and train a neural network for image classification.
 - Visualize model performance and predictions.
 - Understand the basics of evaluation metrics like accuracy.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
 
-## 📂 Dataset
+##  Dataset
 
 - **Fashion MNIST**: 60,000 training and 10,000 test images of 28x28 grayscale clothing items.
 - 10 categories: `T-shirt/top`, `Trouser`, `Pullover`, `Dress`, `Coat`, `Sandal`, `Shirt`, `Sneaker`, `Bag`, `Ankle boot`.
 
-## 🚀 How It Works
+##  How It Works
 
 1. **Data Loading**:
    ```python
@@ -48,7 +48,7 @@ This project is a deep learning-based image classifier built with TensorFlow and
    - Training vs Validation accuracy/loss plots
    - Predictions on test samples with true vs predicted labels
 
-## 📈 Results
+##  Results
 
 Achieved strong performance using a simple dense neural network:
 - **Training Accuracy**: ~87.1%
@@ -56,7 +56,7 @@ Achieved strong performance using a simple dense neural network:
 - **Validation Accuracy**: ~88.3%
 
 
-## 📚 What I Learned
+## What I Learned
 
 - Hands-on experience with TensorFlow and neural networks
 - Best practices in image data preprocessing
