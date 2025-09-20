@@ -12,10 +12,8 @@ This project is a deep learning-based image classifier built with TensorFlow and
 
 ##  Technologies Used
 
-- Python 3
-- TensorFlow / Keras
-- NumPy
-- Matplotlib
+- Languages: Python 3
+- Frameworks: TensorFlow, Keras, NumPy, Matplotlib
 
 ##  Dataset
 
@@ -54,6 +52,28 @@ Achieved strong performance using a simple dense neural network:
 - **Training Accuracy**: ~88.4%
 - **Test Accuracy**: ~86.9%
 - **Validation Accuracy**: ~87.6%
+ # Key Skills Demonstrated
+   -Data preprocessing (normalization, one-hot encoding)
+   -Neural network design & training with TensorFlow/Keras
+   -Regularization (Dropout)
+   -Model evaluation (accuracy plots, confusion matrix)
+   -Visualization of predictions
+   -Reproducibility with Jupyter Notebooks
+   
+ #  Research & Future Work
+    -Extend to CNNs / ResNets for higher accuracy.
+    -Apply interpretability tools (Grad-CAM, SHAP) to analyze learned features.
+    -Explore fairness and bias detection across clothing categories.
+     -Use project as a teaching baseline for explainable computer vision.
+ #    How to Run
+    git clone https://github.com/reyhaneghaderi/fashion-mnist-classification
+    cd fashion-mnist-classification
+    pip install -r requirements.txt
+    jupyter notebook fashin_minist.ipynb
+ # About Me
+👩‍🎓 Master’s student in Stochastic & Data Science, University of Turin
+🔍 Research focus: Computer Vision, Contrastive Learning, Federated Learning   
+
 
 
 ## What I Learned
