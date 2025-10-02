@@ -83,4 +83,8 @@ Achieved strong performance using a simple dense neural network:
 - How to evaluate and debug classification models
 - How to visualize and interpret results
 
+ # More Projects: Customer Clustering
+, Bank Marketing Prediction
+, Street-Style Segmentation
+
 
